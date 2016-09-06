@@ -1,4 +1,4 @@
-// https://codequs.com/p/SyiiRE65s/creating-a-fullscreen-html5-video-background-with-css/
+// https://github.com/rishabhp/bideo.js
 const video = document.querySelector('video');
 const container = document.querySelector('#container');
 
